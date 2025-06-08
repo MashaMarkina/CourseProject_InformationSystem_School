@@ -1,0 +1,10 @@
+C:\Users\maria\OneDrive\Документы\OOP\Course\bin\Debug\Course.exe.config
+C:\Users\maria\OneDrive\Документы\OOP\Course\bin\Debug\Course.exe
+C:\Users\maria\OneDrive\Документы\OOP\Course\bin\Debug\Course.pdb
+C:\Users\maria\OneDrive\Документы\OOP\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Документы\OOP\Course\obj\Debug\Course.WelcomForm.resources
+C:\Users\maria\OneDrive\Документы\OOP\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\maria\OneDrive\Документы\OOP\Course\obj\Debug\Course.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Документы\OOP\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Документы\OOP\Course\obj\Debug\Course.exe
+C:\Users\maria\OneDrive\Документы\OOP\Course\obj\Debug\Course.pdb
